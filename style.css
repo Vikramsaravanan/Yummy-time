@@ -1,0 +1,319 @@
+#home{
+    background-image: url("/assets/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+}
+#logo img{
+    /* background-image: url("/projects/saturday/assets/food\ theme.avif"); */
+    margin-left: 50px;
+    height: 140px;
+    width: 140px;
+    border: 10px solid gold;
+    border-radius: 100%;
+}
+#name{
+    font-size: 50px;
+    font-family: "pacifico";
+    margin:0px 0px 0px 200px;
+}
+#slogan{
+    font-size: 29px;
+    font-family: "Permanent Marker", cursive;
+    margin: 0px 0px 0px 115px;
+
+}
+nav ul
+{
+    border: 2px solid silver;
+    background-color: rgba(176, 196, 222,0.5);
+    font-weight: 30px;;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    margin:0px;
+}
+#off{
+    padding-top:40px;
+    padding-left:100px;
+    text-align: justify;
+    font-size: 60px;
+    font-family:"Edu VIC WA NT Hand Pre",cursive;
+}
+#offer{
+    display: flex;
+    height: 400px;
+    width: auto;
+    background-color: rgba(100, 249, 237,0.4);
+}
+#poster #post{
+    padding: 30px 50px 0px 130px;
+    height:350px;
+    width:700px;
+}
+
+.st{
+    /* border: 2px solid black; */
+    height: 550px;
+    width: 620px;
+    background-repeat: no-repeat;   
+}
+
+#cakes{
+    background-image: url(./assets/cake_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+
+#cake a{
+    font-size: 40px;
+    color:white;
+}
+
+#cake{
+    background-image: url("./assets/cake.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+
+#main_cake{
+    border:4px solid yellowgreen;
+    border-radius: 20px;
+}
+
+#c1{
+    margin-top:10px;
+    font-size:80px;
+    text-align: center;
+    color:plum;
+    font-family: "Dancing Script", cursive;
+}
+
+.bord{
+    margin-top:0px;
+    margin-left: 55px;
+    /* border: 2px solid black; */
+    height: 570px;
+    width: 1450px;
+    display:flex;
+}
+
+.st{
+    /* border: 2px solid black; */
+    height: 550px;
+    width: 620px;
+    margin-right:50px;
+}
+
+.options{
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+    /* border: 2px solid black; */
+    height: 550px;
+    width: 720px;
+}
+
+.op{
+    margin:5px 5px; 
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 160px;
+    width: 340px;
+}
+
+.items{
+    margin-top:4px;    
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 30px;
+    font-family: "Dancing Script", cursive;
+    background-color:rgb(152, 58, 186);
+    color:rgb(0, 0, 0)
+}
+
+/* CAKES */
+
+#bday{
+    background-image: url(./assets/birthday_cake.avif);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#wedd{
+    background-image: url(./assets/wedding_cake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+#anni{
+    background-image: url(./assets/anniversary_cakes.webp);
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+#phot{
+    background-image: url(./assets/photo_cake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+#them{
+    background-image: url(./assets/theme_cakes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+#d3{
+    background-image: url(./assets/3-d_cakes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+#puffs{
+    background-image: url(./assets/puffs.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cutl{
+    background-image: url(./assets/cutlet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#roll{
+    background-image: url(./assets/rolls.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mixt{
+    background-image: url(./assets/mixture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#chip{
+    background-image: url(./assets/chips.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#crun{
+    background-image: url(./assets/Murukku.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#brow{
+    background-image: url(./assets/brownies.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cand{
+    background-image: url(./assets/candies.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rasa{
+    background-image: url(./assets/rasamalai.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gula{
+    background-image: url(./assets/Gulab-Jamun.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#maca{
+    background-image: url(./assets/macarons.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#swee{
+    background-image: url(./assets/sweet\ dessert\ soups.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#choc{
+    background-image: url(./assets/choco\ chip\ cookies.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#suga{
+    background-image: url(./assets/sugar\ cookies.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#butt{
+    background-image: url(./assets/butter\ cookies.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pean{
+    background-image: url(./assets/peanut\ butter\ blossoms.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bisc{
+    background-image: url(./assets/biscotti.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#thum{
+    background-image: url(./assets/thumbprint\ cookies.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#tea{
+    background-image: url(./assets/tea.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#frut{
+    background-image: url(./assets/fruitmix.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#soft{
+    background-image: url(./assets/soft.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#soda{
+    background-image: url(./assets/soda.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#milk{
+    background-image: url(./assets/milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cota{
+    background-image: url(./assets/cocktail.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
