@@ -1,5 +1,5 @@
 #home{
-    background-image: url("/assets/back.jpg");
+    background-image: url(./assets/back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display:flex;
